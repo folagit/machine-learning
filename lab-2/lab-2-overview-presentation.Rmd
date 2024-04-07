@@ -395,6 +395,6 @@ Have fun with the Case Study and Lab 2 (badge)!
 
 - *Dr. Folami Alamudun* 
 
-[These slides (Introductory Presentation)](https://dritauma-nu.github.io/machine-learning/introductory-presentation.html#1)
+[These slides (Introductory Presentation)](https://folagit.github.io/machine-learning/introductory-presentation.html#1)
 
-[General troubleshooting tips for R and RStudio](https://livenorthwood-my.sharepoint.com/:w:/g/personal/itaumai_northwood_edu/EZWNAgShFaBPtU5dtkTbWqsBtw-xM92LyySuzZMut1Wayw?e=1FYfiX)
+[General troubleshooting tips for R and RStudio](https://my.northwood.edu/bbcswebdav/xid-22288836_1)
